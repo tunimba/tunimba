@@ -6,33 +6,48 @@ I graduated with high honors in Psychology and gained multidisciplinary skills t
 
 ## My Featured Applications
 
-<div align="center">
-  <a href="https://apps.apple.com/app/id6742585033">
-    <img src="images/foodr.png" width="190" style="margin: 10px;"/>
-  </a>
-  <a href="https://apps.apple.com/tr/app/psychpedia-psychology-focus/id6472971185">
-    <img src="images/psychpedia.png" width="190" style="margin: 10px;"/>
-  </a>
-  <a href="https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr">
-    <img src="images/qreator.png" width="190" style="margin: 10px;"/>
-  </a>
-  <a href="https://apps.apple.com/tr/app/acil-numaralar-türkiye/id6505045783?l=tr">
-    <img src="images/acilnumaralar.png" width="190" style="margin: 10px;"/>
-  </a>
-  <a href="https://apps.apple.com/tr/app/lawducation-hukuk-e.itim/id6739732386?l=tr">
-    <img src="images/lawducation.png" width="190" style="margin: 10px;"/>
-  </a>
-</div>
-
-## App Store Links
-
-<div align="center">
-  <a href="https://apps.apple.com/app/id6742585033">Foodr</a> |
-  <a href="https://apps.apple.com/tr/app/psychpedia-psychology-focus/id6472971185">Psychpedia</a> |
-  <a href="https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr">QReator</a> |
-  <a href="https://apps.apple.com/tr/app/acil-numaralar-türkiye/id6505045783?l=tr">Acil Numaralar</a> |
-  <a href="https://apps.apple.com/tr/app/lawducation-hukuk-e.itim/id6739732386?l=tr">Lawducation</a>
-</div>
+<table border="0">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/app/id6742585033">
+        <img src="images/foodr.png" width="190"/>
+        <br>
+        Foodr
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/tr/app/psychpedia-psychology-focus/id6472971185">
+        <img src="images/psychpedia.png" width="190"/>
+        <br>
+        Psychpedia
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr">
+        <img src="images/qreator.png" width="190"/>
+        <br>
+        QReator
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/tr/app/acil-numaralar-türkiye/id6505045783?l=tr">
+        <img src="images/acilnumaralar.png" width="190"/>
+        <br>
+        Acil Numaralar
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/tr/app/lawducation-hukuk-e.itim/id6739732386?l=tr">
+        <img src="images/lawducation.png" width="190"/>
+        <br>
+        Lawducation
+      </a>
+    </td>
+    <td align="center" width="200"></td>
+  </tr>
+</table>
 
 ## Technologies I Know
 
