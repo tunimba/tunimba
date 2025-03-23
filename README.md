@@ -24,6 +24,7 @@ Ben her gün en az dört saat iOS geliştirmeye ve Swift öğrenmeye zaman ayır
       <td align="center">
         <img src="images/lawducation" width="200"/>
       </td>
+      <tr>
   </table>
 </div>
 
