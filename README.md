@@ -6,7 +6,7 @@ I graduated with high honors in Psychology and gained multidisciplinary skills t
   <table border="0">
     <tr>
       <td align="center">
-        <a href="https://apps.apple.com/app/id6742585033">
+        <a href="https://apps.apple.com/tr/app/id6742585033">
           <img src="images/foodr.png" width="200"/>
         </a>
       </td>
