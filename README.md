@@ -1,4 +1,4 @@
-# Hello, I'm [Tunahan]
+# Hello, I'm Tunahan
 
 I graduated with high honors in Psychology and gained multidisciplinary skills through work and volunteering. I took a gap year to learn iOS development with SwiftUI through self-study and online courses from Stanford University, Kodeco, Hacking With Swift, Essential Developer, and Sean Allen. I have published five iOS applications—4 under my own name and 1 as freelance project. Currently, I am maintaining my previously published apps while developing a new personal project. I am eager to join a work environment where I can collaborate with others and continue learning, and I am confident that my passion and dedication to iOS development will allow me to contribute to a team and grow as a developer.
 
