@@ -1,8 +1,8 @@
-# Merhaba, ben [Adınız]
+# Hello, I'm [Tunahan]
 
-Ben her gün en az dört saat iOS geliştirmeye ve Swift öğrenmeye zaman ayırıyorum. Başkalarıyla işbirliği yapabileceğim ve öğrenebileceğim bir iş ortamına katılmak için sabırsızlanıyorum. Yazılım geliştirmeye olan tutkum ve özverim sayesinde bir ekibe katkı sağlayabilecek ve geliştirici olarak büyümeye devam edebileceğim konusunda kendime güveniyorum.
+I graduated with high honors in Psychology and gained multidisciplinary skills through work and volunteering. I took a gap year to learn iOS development with SwiftUI through self-study and online courses from Stanford University, Kodeco, Hacking With Swift, Essential Developer, and Sean Allen. I have published five iOS applications—4 under my own name and 1 as freelance project. Currently, I am maintaining my previously published apps while developing a new personal project. I am eager to join a work environment where I can collaborate with others and continue learning, and I am confident that my passion and dedication to iOS development will allow me to contribute to a team and grow as a developer.
 
-## Öne Çıkan Uygulamalarım
+## My Apps
 
 <div align="center">
   <table border="0">
@@ -22,35 +22,31 @@ Ben her gün en az dört saat iOS geliştirmeye ve Swift öğrenmeye zaman ayır
         <img src="images/acilnumaralar.png" width="200"/>
       </td>
       <td align="center">
-        <img src="images/lawducation" width="200"/>
+        <img src="images/lawducation.png" width="200"/>
       </td>
       <tr>
   </table>
 </div>
 
-## Uygulama Listesi
+[Foodr]([https://github.com/yourusername/FoodAnalyzer](https://apps.apple.com/app/id6742585033)) | [Lawducation]([https://github.com/yourusername/LawducationApp](https://apps.apple.com/tr/app/lawducation-hukuk-e.itim/id6739732386?l=tr)) | [Psychpedia]([https://github.com/yourusername/PsychologyLearn](https://apps.apple.com/tr/app/psychpedia-psychology-focus/id6472971185))
 
-[Foodr](https://github.com/yourusername/FoodAnalyzer) | [Lawducation](https://github.com/yourusername/LawducationApp) | [Psychpedia](https://github.com/yourusername/PsychologyLearn)
+[QReator]([https://github.com/yourusername/QReator](https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr)) | [Acil Numaralar]([https://github.com/yourusername/EmergencyContacts](https://apps.apple.com/tr/app/acil-numaralar-türkiye/id6505045783?l=tr))
 
-[QReator](https://github.com/yourusername/QReator) | [Acil Numaralar](https://github.com/yourusername/EmergencyContacts)
+## Technologies I Know
 
-## Teknolojiler
-
-- Swift
-- UIKit
 - SwiftUI
-- CoreData
-- Firebase
-- REST API
 - Git
-- Alamofire
+- Fastlane
+- Github Actions
+- RESTful APIs
+- RevenueCat
+- Admob
+- Firebase
+- Figma
+- NextJs
 
-## İletişim
+## Contact
 
-- LinkedIn: [LinkedIn Profiliniz](https://linkedin.com/in/tunahan-aktay)
-- Twitter: [@twitterkullaniciadiniz](https://twitter.com/tunimba)
-- E-posta: [E-posta adresiniz](mailto:aktaytunahan@gmail.com)
-
----
-
-**"Kararlılık ve cesaretle, kendimize koyduğumuz her hedefe ulaşabiliriz."**
+- LinkedIn: [Tunahan Aktay](https://linkedin.com/in/tunahan-aktay)
+- Twitter: [@tunimba](https://twitter.com/tunimba)
+- E-posta: [aktaytunahan@gmail.com](mailto:aktaytunahan@gmail.com)
