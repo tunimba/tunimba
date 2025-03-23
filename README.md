@@ -10,7 +10,7 @@ I graduated with high honors in Psychology and gained multidisciplinary skills t
   <tr>
     <td align="center" width="200">
       <a href="https://apps.apple.com/app/id6742585033">
-        <img src="images/foodr.png" width="190"/>
+        <img src="images/foodr2.png" width="190"/>
         <br>
         Foodr
       </a>
