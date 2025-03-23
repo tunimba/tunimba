@@ -23,26 +23,26 @@ I graduated with high honors in Psychology and gained multidisciplinary skills t
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr">
-        <img src="images/qreator.png" width="190"/>
-        <br>
-        QReator
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://apps.apple.com/tr/app/acil-numaralar-türkiye/id6505045783?l=tr">
         <img src="images/acilnumaralar.png" width="190"/>
         <br>
         Acil Numaralar
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://apps.apple.com/tr/app/qreator-qr-kod-barkod-okuyucu/id6737692733?l=tr">
+        <img src="images/qreator.png" width="190"/>
+        <br>
+        QReator
+      </a>
+    </td>
     <td align="center" width="200">
       <a href="https://apps.apple.com/tr/app/lawducation-hukuk-e.itim/id6739732386?l=tr">
         <img src="images/lawducation.png" width="190"/>
         <br>
-        Lawducation
+        Lawducation (Sold)
       </a>
     </td>
     <td align="center" width="200"></td>
