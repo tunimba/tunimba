@@ -1,5 +1,3 @@
-<p align="right"><a href="https://github.com/tunimba/tunimba/blob/main/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="images/lang-en-on-dark.webp"/><img src="images/lang-en-on-light.webp" width="110" alt="English"/></picture></a> <a href="https://github.com/tunimba/tunimba/blob/main/README.tr.md"><picture><source media="(prefers-color-scheme: dark)" srcset="images/lang-tr-off-dark.webp"/><img src="images/lang-tr-off-light.webp" width="110" alt="Türkçe"/></picture></a></p>
-
 <a href="https://tunahanaktay.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/hero-dark.webp"/><img src="images/hero-light.webp" width="100%" alt="Tunahan Aktay: indie iOS developer in Istanbul. 16 apps shipped, 50,000+ downloads, $28,000+ earned on the App Store."/></picture></a>
 
 ## The shelf
